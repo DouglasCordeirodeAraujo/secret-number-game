@@ -12,7 +12,7 @@
 
 # Team
 <div>
-  <a href="https://github.com/DouglasCordeirodeAraujo">
+  <a href="https://github.com/DouglasCordeirodeAraujo" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/184470413?s=400&u=bd44a32a0037b93b00291889c482fb7ad239d12e&v=4" width=115><p>Douglas Araújo<p>
   </a>
 </div>
